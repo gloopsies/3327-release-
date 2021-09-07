@@ -1,0 +1,6 @@
+Hey %s, great news!
+Campaign %s that you created reached it's goal!
+We just thought you'd like to know that.
+
+Wishing you all the best,
+Team Support Children

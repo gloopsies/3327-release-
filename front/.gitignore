@@ -1,0 +1,9 @@
+.vscode/
+.idea/
+
+/node_modules/
+/public/build/
+
+.DS_Store
+
+src/.env.ts

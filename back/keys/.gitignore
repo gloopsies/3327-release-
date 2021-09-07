@@ -1,0 +1,3 @@
+# Keep the keys/ directory but make sure git doesn't push secure keys to the repo
+*
+!.gitignore

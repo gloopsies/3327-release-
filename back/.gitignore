@@ -1,0 +1,8 @@
+.idea/
+.code/
+
+build/
+
+sql/test.sql
+config.json
+log.txt

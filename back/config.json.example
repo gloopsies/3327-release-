@@ -1,0 +1,43 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": "5432",
+    "username": "",
+    "password": "",
+    "name": ""
+  },
+  "redis": {
+    "host": "localhost:6379",
+    "password": ""
+  },
+  "images": {
+    "local": "./images/",
+    "serve": "/images/"
+  },
+  "email": {
+    "email": "",
+    "password": "",
+    "smtp_host": "",
+    "smtp_port": ""
+  },
+  "key" : {
+    "private": "./keys/key.pem"
+  },
+  "blockchain": {
+    "abi_file": "./abi.json",
+    "url": "wss://rinkeby.infura.io/ws/v3/e6d66f035171421dac50f8c94d9c9c09",
+    "contract": "0xf2961bBb0EB04B789890fe477509D9B0A2Eb1947"
+  },
+  "messages": {
+    "donation_given": "messages/donation_given.txt",
+    "donation_received": "messages/donation_received.txt",
+    "campaign_done": "messages/campaign_done.txt",
+    "campaign_over": "messages/campaign_over.txt"
+  },
+  "admin": "",
+  "host": "localhost",
+  "cors": "http://localhost:5000",
+  "port": "8080",
+  "log_file": "./log.txt",
+  "debug": false
+}

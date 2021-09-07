@@ -1,0 +1,6 @@
+Hey %s!
+We would like to inform you that you just received a donation for %s!
+You can see more details at https://rinkeby.etherscan.io/tx/%s.
+
+Wishing you all the best,
+Team Support Children

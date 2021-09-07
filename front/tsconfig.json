@@ -1,0 +1,22 @@
+{
+	"extends": "@tsconfig/svelte/tsconfig.json",
+	"include": [
+		"src/**/*"
+	],
+	"exclude": [
+		"node_modules/*",
+		"__sapper__/*",
+		"public/*"
+	],
+	"compilerOptions": {
+		"target": "es2017",
+		"lib": [
+			"es2019",
+			"es2017",
+			"es2020",
+			"DOM",
+			"esnext"
+		],
+		"resolveJsonModule": true
+	}
+}
